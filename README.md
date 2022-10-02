@@ -1,4 +1,5 @@
 # Hi there 👋, My name is Jay Schulman
+and my minipool is getting dissolved in 5 days. I should go to the support channel of the Rocket Pool Discord and ask for help. https://discord.gg/rocketpool
 
 <img width="100%" src="https://github-profile-page-creator.netlify.app/www.jayschulman.com" alt="my banner">
 
