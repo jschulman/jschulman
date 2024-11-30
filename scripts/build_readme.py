@@ -147,11 +147,11 @@ def main():
     rewritten = replace_chunk(rewritten, "age", age_md)
 
     # Handle the 'now' section
-    if now_entries:
-        now_md = f"""
-{now_entries[0]['description']}
-"""
-    else:
+#    if now_entries:
+#        now_md = f"""
+#{now_entries[0]['description']}
+#"""
+#    else:
         now_md = "No recent updates available. [Check here for the latest.](https://jayschulman.com/)"
 
     rewritten = replace_chunk(rewritten, "now", now_md)
