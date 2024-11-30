@@ -152,7 +152,7 @@ def main():
 #{now_entries[0]['description']}
 #"""
 #    else:
-        now_md = "No recent updates available. [Check here for the latest.](https://jayschulman.com/)"
+    now_md = "No recent updates available. [Check here for the latest.](https://jayschulman.com/)"
 
     rewritten = replace_chunk(rewritten, "now", now_md)
 
