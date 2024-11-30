@@ -70,7 +70,7 @@ def fetch_photos_entries(url: str, max_entries: int = 1) -> List[Dict[str, str]]
 def fetch_age() -> float:
     try:
         response = httpx.get(
-            "https://age.blockchainjay.org/",
+            "https://age.blockchainjay.org/age",
             timeout=10
         )
         response.raise_for_status()
