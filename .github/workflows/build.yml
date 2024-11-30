@@ -1,0 +1,30 @@
+name: Build README
+
+on:
+    push:
+    workflow_dispatch:
+    schedule:
+        - cron: "32 0 * * *"
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repo
+              uses: actions/checkout@v2
+            - name: Install uv
+              uses: astral-sh/setup-uv@v3
+              with:
+                  version: "latest"
+            - name: Update README
+              run: |-
+                  uv run ./scripts/build_readme.py
+                  cat README.md
+            - name: Commit and push if changed
+              run: |-
+                  git diff
+                  git config --global user.email "harper+readme-bot@modest.com"
+                  git config --global user.name "README-bot"
+                  git add -A
+                  git commit -m "Updated content" || exit 0
+                  git push
