@@ -112,22 +112,22 @@ def main():
 
     # Fetch data concurrently
     with ThreadPoolExecutor() as executor:
-        #blog_future = executor.submit(fetch_feed_entries, "https://harper.blog/posts/index.xml")
+        blog_future = executor.submit(fetch_feed_entries, "https://blockchainjay.org/rss.xml")
         #photos_future = executor.submit(fetch_photos_entries, "https://harper.photos/index.xml?")
         #books_future = executor.submit(fetch_feed_entries, "https://reading.lol/index.xml")
         age_future = executor.submit(fetch_age)
         #now_future = executor.submit(fetch_feed_entries, "https://harper.blog/now/index.xml", 1)
 
-        #blog_entries = blog_future.result()
+        blog_entries = blog_future.result()
         #photos = photos_future.result()
         #books = books_future.result()
         age = age_future.result()
         #now_entries = now_future.result()
 
-#    entries_md = "\n".join(
-#        ["* [{title}]({url})".format(**entry) for entry in blog_entries]
-#    )
-#    rewritten = replace_chunk(rewritten, "blog", entries_md)
+    entries_md = "\n".join(
+        ["* [{title}]({url})".format(**entry) for entry in blog_entries]
+    )
+    rewritten = replace_chunk(rewritten, "blog", entries_md)
 
 #    photos_md = "\n".join(
 #        ["[![{title}]({photo})]({url}) \n *{description}*".format(**entry) for entry in photos]
