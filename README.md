@@ -43,7 +43,7 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 - 📫 How to reach me: [interesting@jayschulman.com](mailto:interesting@jayschulman.com)
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 49.5 years old
+- 👨Age: 0.0 years old
 <!-- age ends -->
 
 <!-- details ends -->
@@ -75,5 +75,5 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `December 08, 2024`
+Generated on `December 09, 2024`
 <!-- date ends -->
