@@ -53,11 +53,11 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Digital Assets 2024 Year in Review](https://blockchainjay.org/posts/digital-assets-2024-year-in-review)
+* [The Unexpected Narratives Driving Crypto Market Cycles](https://blockchainjay.org/posts/unexpected-narratives-driving-crypto-market-cycles)
 * [Cryptocurrency vs. Traditional Investments: A Generational Shift in Wealth Storage](https://blockchainjay.org/posts/cryptocurrency-vs-traditional-investments-a-generational-shift-in-wealth-storage)
 * [AI vs. Blockchain: The Balancing Act for an Innovative Internet](https://blockchainjay.org/posts/ai-vs-blockchain-the-balancing-act-for-an-innovative-internet)
 * [Navigating Regulatory Hurdles: Permissionless Blockchains in Banking](https://blockchainjay.org/posts/navigating-regulatory-hurdles-the-case-for-permissionless-blockchains-in-banking)
-* [Top Blockchain News for Sep 30, 2023](https://blockchainjay.org/posts/top-blockchain-news-for-sep-30-2023)
-* [Top Blockchain News for Sep 28, 2023](https://blockchainjay.org/posts/top-blockchain-news-for-sep-28-2023)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -75,5 +75,5 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `December 18, 2024`
+Generated on `December 19, 2024`
 <!-- date ends -->
