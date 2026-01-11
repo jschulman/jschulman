@@ -75,5 +75,5 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `January 10, 2026`
+Generated on `January 11, 2026`
 <!-- date ends -->
