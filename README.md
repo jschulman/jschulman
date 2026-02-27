@@ -1,21 +1,28 @@
 # Hi there 👋
 
 <!-- bio starts -->
+I'm Jay Schulman. I work at the intersection of blockchain, AI, and information security — making the complex accessible and helping people navigate transformative technology.
 
+I lead RSM US LLP's blockchain and digital asset practice, and I build open-source dashboards that track macro tipping points: [AI displacement](https://jschulman.github.io/displacement-curve), [quantum risk](https://jschulman.github.io/quantum-qanary), and [stablecoin adoption](https://jschulman.github.io/stablecoin-signal).
+
+<!-- bio ends -->
 
 ---
 
-# My current [now](https://blockchainjay.org/now) post:
+# The Canaries
 
-<!-- now starts -->
-No recent updates available. [Check here for the latest.](https://jayschulman.com/)
-<!-- now ends -->
+Open-source dashboards tracking macro tipping points — the early warning signals for shifts that matter.
+
+| Dashboard | Question | Live |
+|-----------|----------|------|
+| **The Displacement Curve** | Where are we on the AI displacement curve? | [Dashboard](https://jschulman.github.io/displacement-curve) |
+| **The Quantum Qanary** | How close are we to Q-Day? | [Dashboard](https://jschulman.github.io/quantum-qanary) |
+| **The Stablecoin Signal** | When does the off-ramp disappear? | [Dashboard](https://jschulman.github.io/stablecoin-signal) |
 
 # My socials:
 
 <!-- social starts -->
-[![Twitter: jschulman](https://img.shields.io/twitter/follow/jschulman?style=social)](https://twitter.com/jschulman)
-[![Linkedin: jschulman](https://img.shields.io/badge/-jschulman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschulman/)](https://www.linkedin.com/in/jschulman/)
+[![LinkedIn: jschulman](https://img.shields.io/badge/-jschulman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jschulman/)](https://www.linkedin.com/in/jschulman/)
 [![GitHub jschulman](https://img.shields.io/github/followers/jschulman?label=follow&style=social)](https://github.com/jschulman)
 [![](https://img.shields.io/github/stars/jschulman?style=social)](https://github.com/jschulman)
 
@@ -28,10 +35,8 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 ### Links of note:
 
 <!-- links starts -->
-- [jayschulman.com](http://jayschulman.com) - my home page
-- [blockchainjay.org](http://blockchainjay.org) - my writing
-
-
+- [jayschulman.com](https://jayschulman.com) - my home page
+- [The Canaries](https://jayschulman.com/canaries) - open-source dashboards tracking macro tipping points
 
 <!-- links ends -->
 
@@ -42,9 +47,6 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 <!-- details starts -->
 - 📫 How to reach me: [interesting@jayschulman.com](mailto:interesting@jayschulman.com)
 - 📍 Locale: Chicago
-<!-- age starts -->
-- 👨Age: 0.0 years old
-<!-- age ends -->
 
 <!-- details ends -->
 
@@ -53,11 +55,11 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 ### Recent Blog Posts
 
 <!-- blog starts -->
-* [Digital Assets 2024 Year in Review](https://blockchainjay.org/posts/digital-assets-2024-year-in-review)
-* [The Unexpected Narratives Driving Crypto Market Cycles](https://blockchainjay.org/posts/unexpected-narratives-driving-crypto-market-cycles)
-* [Cryptocurrency vs. Traditional Investments: A Generational Shift in Wealth Storage](https://blockchainjay.org/posts/cryptocurrency-vs-traditional-investments-a-generational-shift-in-wealth-storage)
-* [AI vs. Blockchain: The Balancing Act for an Innovative Internet](https://blockchainjay.org/posts/ai-vs-blockchain-the-balancing-act-for-an-innovative-internet)
-* [Navigating Regulatory Hurdles: Permissionless Blockchains in Banking](https://blockchainjay.org/posts/navigating-regulatory-hurdles-the-case-for-permissionless-blockchains-in-banking)
+* [Quantum Computing's Hidden Climate Opportunity](https://jayschulman.com/blog/quantum-computings-hidden-climate-opportunity)
+* [Quantum Computing's Hidden Opportunity in Drug Discovery](https://jayschulman.com/blog/quantum-computings-hidden-opportunity-in-drug-discovery)
+* [Quantum Computing Beyond Security: Solving Unsolved Problems](https://jayschulman.com/blog/quantum-computing-beyond-security-solving-unsolved-problems)
+* [Quantum Computing: Building New Systems, Not Faster Horses](https://jayschulman.com/blog/quantum-computing-building-new-systems-not-faster-horses)
+* [Beyond Quantum Hype: The Real Innovation Narrative](https://jayschulman.com/blog/beyond-quantum-hype-the-real-innovation-narrative)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -67,8 +69,8 @@ No recent updates available. [Check here for the latest.](https://jayschulman.co
 # Github Stats
 
 <!-- github_stats starts -->
-![Harper's github stats](https://github-readme-stats.vercel.app/api?username=jschulman&show_icons=&private_count=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschulman&layout=compact)]()
+![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jschulman&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschulman&layout=compact)](https://github.com/jschulman)
 
 <!-- github_stats ends -->
 

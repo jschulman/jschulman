@@ -1,4 +1,2 @@
-- [jayschulman.com](http://jayschulman.com) - my home page
-- [blockchainjay.org](http://blockchainjay.org) - my writing
-
-
+- [jayschulman.com](https://jayschulman.com) - my home page
+- [The Canaries](https://jayschulman.com/canaries) - open-source dashboards tracking macro tipping points

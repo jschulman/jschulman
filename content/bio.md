@@ -1,5 +1,3 @@
-My name is Jay Schulman. I am a hacker type person who ended up deep in blockchain and digital assets.
+I'm Jay Schulman. I work at the intersection of blockchain, AI, and information security — making the complex accessible and helping people navigate transformative technology.
 
-Currently I lead the RSM US LLP’s capability in addressing both enterprise blockchain technology and the adoption of digital assets such as bitcoin.
-
-Please [reach out](mailto:interesting@jayschulman.com) and say hi.
+I lead RSM US LLP's blockchain and digital asset practice, and I build open-source dashboards that track macro tipping points: [AI displacement](https://jschulman.github.io/displacement-curve), [quantum risk](https://jschulman.github.io/quantum-qanary), and [stablecoin adoption](https://jschulman.github.io/stablecoin-signal).

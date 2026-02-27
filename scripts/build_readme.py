@@ -3,7 +3,6 @@
 # dependencies = [
 #   "feedparser",
 #   "pathlib",
-#   "httpx"
 # ]
 # ///
 
@@ -11,12 +10,9 @@ import feedparser
 import pathlib
 import re
 import datetime
-import httpx
 import logging
 from typing import List, Dict
-from concurrent.futures import ThreadPoolExecutor
 
-# Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
@@ -40,44 +36,12 @@ def fetch_feed_entries(url: str, max_entries: int = 5) -> List[Dict[str, str]]:
             parsed_entry = {
                 "title": entry.get("title", "No title"),
                 "url": entry.get("link", "").split("#")[0],
-                "published": entry.get("published", "").split("T")[0],
-                "content": entry.get("description", ""),
-                "description": entry.get("description", "")
             }
             parsed_entries.append(parsed_entry)
         return parsed_entries
     except Exception as e:
         logger.error(f"Error fetching feed from {url}: {str(e)}")
         return []
-
-def fetch_photos_entries(url: str, max_entries: int = 1) -> List[Dict[str, str]]:
-    try:
-        entries = feedparser.parse(url)["entries"]
-        return [
-            {
-                "title": entry.get("title", "No title"),
-                "description": entry.get("description", ""),
-                "photo": entry.get("media_content", [{}])[0].get("url", ""),
-                "url": entry.get("link", "").split("#")[0],
-                "published": entry.get("published", "").split("T")[0],
-            }
-            for entry in entries[:max_entries]
-        ]
-    except Exception as e:
-        logger.error(f"Error fetching photos from {url}: {str(e)}")
-        return []
-
-def fetch_age() -> float:
-    try:
-        response = httpx.get(
-            "https://age.blockchainjay.org/age",
-            timeout=10
-        )
-        response.raise_for_status()
-        return response.json()
-    except Exception as e:
-        logger.error(f"Error fetching age: {str(e)}")
-        return 0.0
 
 def read_file_content(file_path: pathlib.Path) -> str:
     try:
@@ -99,64 +63,26 @@ def main():
         "social": content / "social.md",
     }
 
-    # Read file contents concurrently
-    with ThreadPoolExecutor() as executor:
-        future_to_file = {executor.submit(read_file_content, path): name for name, path in file_paths.items()}
-        file_contents = {name: future.result() for future, name in future_to_file.items()}
+    file_contents = {name: read_file_content(path) for name, path in file_paths.items()}
 
     rewritten = file_contents["readme"]
-    original_content = rewritten  # Store the original content for comparison
+    original_content = rewritten
 
     for section in ["bio", "links", "details", "github_stats", "social"]:
         rewritten = replace_chunk(rewritten, section, file_contents[section])
 
-    # Fetch data concurrently
-    with ThreadPoolExecutor() as executor:
-        blog_future = executor.submit(fetch_feed_entries, "https://blockchainjay.org/rss.xml")
-        #photos_future = executor.submit(fetch_photos_entries, "https://harper.photos/index.xml?")
-        #books_future = executor.submit(fetch_feed_entries, "https://reading.lol/index.xml")
-        age_future = executor.submit(fetch_age)
-        #now_future = executor.submit(fetch_feed_entries, "https://harper.blog/now/index.xml", 1)
-
-        blog_entries = blog_future.result()
-        #photos = photos_future.result()
-        #books = books_future.result()
-        age = age_future.result()
-        #now_entries = now_future.result()
+    # Fetch blog entries from jayschulman.com
+    blog_entries = fetch_feed_entries("https://jayschulman.com/rss.xml")
 
     entries_md = "\n".join(
         ["* [{title}]({url})".format(**entry) for entry in blog_entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
-#    photos_md = "\n".join(
-#        ["[![{title}]({photo})]({url}) \n *{description}*".format(**entry) for entry in photos]
-#    )
-#    rewritten = replace_chunk(rewritten, "photos", photos_md)
-
-#    books_md = "\n".join(
-#        ["* [{title}]({url})".format(**entry) for entry in books]
-#    )
-#    rewritten = replace_chunk(rewritten, "books", books_md)
-
-    # Update the date format to show month, day, and year
+    # Update build date
     builddate_md = "Generated on `" + datetime.datetime.now().strftime("%B %d, %Y") + "`"
     rewritten = replace_chunk(rewritten, "date", builddate_md)
 
-    age_md = f"- 👨Age: {age:.1f} years old"  # Display age with one decimal place
-    rewritten = replace_chunk(rewritten, "age", age_md)
-
-    # Handle the 'now' section
-#    if now_entries:
-#        now_md = f"""
-#{now_entries[0]['description']}
-#"""
-#    else:
-    now_md = "No recent updates available. [Check here for the latest.](https://jayschulman.com/)"
-
-    rewritten = replace_chunk(rewritten, "now", now_md)
-
-    # Only write to README.md if there are changes
     if rewritten != original_content:
         try:
             readme.write_text(rewritten)
