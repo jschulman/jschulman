@@ -58,8 +58,8 @@ Open-source dashboards tracking macro tipping points — the early warning signa
 * [Quantum Computing's Hidden Climate Opportunity](https://jayschulman.com/blog/quantum-computings-hidden-climate-opportunity)
 * [Quantum Computing's Hidden Opportunity in Drug Discovery](https://jayschulman.com/blog/quantum-computings-hidden-opportunity-in-drug-discovery)
 * [Quantum Computing Beyond Security: Solving Unsolved Problems](https://jayschulman.com/blog/quantum-computing-beyond-security-solving-unsolved-problems)
-* [Quantum Computing: Building New Systems, Not Faster Horses](https://jayschulman.com/blog/quantum-computing-building-new-systems-not-faster-horses)
-* [Clarity Act: Treasury Policy Changes Beyond Crypto](https://jayschulman.com/blog/clarity-act-treasury-policy-changes-beyond-crypto)
+* [Banking License: The Cultural Transformation Fintech Misses](https://jayschulman.com/blog/banking-license-the-cultural-transformation-fintech-misses)
+* [Trust as Valuation: Why Disclosure Now Beats Compliance](https://jayschulman.com/blog/trust-as-valuation-why-disclosure-now-beats-compliance)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -77,5 +77,5 @@ Open-source dashboards tracking macro tipping points — the early warning signa
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `May 15, 2026`
+Generated on `May 16, 2026`
 <!-- date ends -->
