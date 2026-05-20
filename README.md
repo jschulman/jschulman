@@ -71,8 +71,8 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 * [Quantum Computing's Hidden Climate Opportunity](https://jayschulman.com/blog/quantum-computings-hidden-climate-opportunity)
 * [Quantum Computing's Hidden Opportunity in Drug Discovery](https://jayschulman.com/blog/quantum-computings-hidden-opportunity-in-drug-discovery)
 * [Quantum Computing Beyond Security: Solving Unsolved Problems](https://jayschulman.com/blog/quantum-computing-beyond-security-solving-unsolved-problems)
+* [Crypto Sub-Ledgers: The Black Box Risk](https://jayschulman.com/blog/crypto-sub-ledgers-the-black-box-risk)
 * [Banking License: The Cultural Transformation Fintech Misses](https://jayschulman.com/blog/banking-license-the-cultural-transformation-fintech-misses)
-* [Trust as Valuation: Why Disclosure Now Beats Compliance](https://jayschulman.com/blog/trust-as-valuation-why-disclosure-now-beats-compliance)
 <!-- blog ends -->
 
 </td><td valign="top">
