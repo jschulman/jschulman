@@ -11,13 +11,26 @@ I lead RSM US LLP's blockchain and digital asset practice, and I build open-sour
 
 # The Canaries
 
-Open-source dashboards tracking macro tipping points — the early warning signals for shifts that matter.
+Open-source dashboards tracking tipping points — macro shifts and crypto-native middle-market signals. The early warnings for shifts that matter.
+
+### Macro Canaries
 
 | Dashboard | Question | Live |
 |-----------|----------|------|
 | **The Displacement Curve** | Where are we on the AI displacement curve? | [Dashboard](https://jschulman.github.io/displacement-curve) |
 | **The Quantum Qanary** | How close are we to Q-Day? | [Dashboard](https://jschulman.github.io/quantum-qanary) |
 | **The Stablecoin Signal** | When does the off-ramp disappear? | [Dashboard](https://jschulman.github.io/stablecoin-signal) |
+
+### The Crypto Canaries
+
+Reading the crypto-native middle-market finance stack through one lens: public job postings.
+
+| Dashboard | Question | Live |
+|-----------|----------|------|
+| **Compliance Canary** | Is the crypto sector staffing up for federal regulation? | [Dashboard](https://jschulman.github.io/compliance-canary) |
+| **Crypto Tool Curve** | Is purpose-built crypto-accounting tooling crossing the chasm? | [Dashboard](https://jschulman.github.io/crypto-tool-curve) |
+| **The CFO Gap** | Can the crypto industry staff its finance orgs? | [Dashboard](https://jschulman.github.io/cfo-gap) |
+| **Comp Pulse** | Is crypto-native comp drifting up or correcting? | [Dashboard](https://jschulman.github.io/comp-pulse) |
 
 # My socials:
 
