@@ -70,9 +70,9 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 <!-- blog starts -->
 * [Quantum Computing's Hidden Climate Opportunity](https://jayschulman.com/blog/quantum-computings-hidden-climate-opportunity)
 * [Quantum Computing's Hidden Opportunity in Drug Discovery](https://jayschulman.com/blog/quantum-computings-hidden-opportunity-in-drug-discovery)
+* [Micropayments Will Kill SaaS Subscriptions](https://jayschulman.com/blog/micropayments-will-kill-saas-subscriptions)
+* [Why AI Job Fears Miss the Real Challenge Ahead](https://jayschulman.com/blog/why-ai-job-fears-miss-the-real-challenge-ahead)
 * [Quantum Computing Beyond Security: Solving Unsolved Problems](https://jayschulman.com/blog/quantum-computing-beyond-security-solving-unsolved-problems)
-* [Crypto Sub-Ledgers: The Black Box Risk](https://jayschulman.com/blog/crypto-sub-ledgers-the-black-box-risk)
-* [Banking License: The Cultural Transformation Fintech Misses](https://jayschulman.com/blog/banking-license-the-cultural-transformation-fintech-misses)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `May 27, 2026`
+Generated on `May 28, 2026`
 <!-- date ends -->
