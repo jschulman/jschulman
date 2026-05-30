@@ -69,10 +69,10 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 
 <!-- blog starts -->
 * [Quantum Computing's Hidden Climate Opportunity](https://jayschulman.com/blog/quantum-computings-hidden-climate-opportunity)
+* [AI Ate Entry-Level Jobs—Now We Need Apprenticeships](https://jayschulman.com/blog/ai-ate-entry-level-jobsnow-we-need-apprenticeships)
+* [Why AI Agents Are Making Beautiful Decks Obsolete](https://jayschulman.com/blog/why-ai-agents-are-making-beautiful-decks-obsolete)
 * [Quantum Computing's Hidden Opportunity in Drug Discovery](https://jayschulman.com/blog/quantum-computings-hidden-opportunity-in-drug-discovery)
-* [Micropayments Will Kill SaaS Subscriptions](https://jayschulman.com/blog/micropayments-will-kill-saas-subscriptions)
-* [Why AI Job Fears Miss the Real Challenge Ahead](https://jayschulman.com/blog/why-ai-job-fears-miss-the-real-challenge-ahead)
-* [Quantum Computing Beyond Security: Solving Unsolved Problems](https://jayschulman.com/blog/quantum-computing-beyond-security-solving-unsolved-problems)
+* [The Thinking Gap: Why AI Speed Kills Originality](https://jayschulman.com/blog/the-thinking-gap-why-ai-speed-kills-originality)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `May 29, 2026`
+Generated on `May 30, 2026`
 <!-- date ends -->
