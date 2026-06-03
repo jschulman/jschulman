@@ -68,11 +68,11 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [AI Won't Reshape Work—How You Share the Gains Will](https://jayschulman.com/blog/ai-wont-reshape-workhow-you-share-the-gains-will)
+* [Blockchain Prediction Markets: Trust Without Intermediaries](https://jayschulman.com/blog/blockchain-prediction-markets-trust-without-intermediaries)
+* [AI Adoption: Ask 'What Is This' Before 'Who Do We Cut'](https://jayschulman.com/blog/ai-adoption-ask-what-is-this-before-who-do-we-cut)
 * [The Hidden Cost of Free: AI Data Collection](https://jayschulman.com/blog/the-hidden-cost-of-free-ai-data-collection)
 * [Quantum Computing's Hidden Climate Opportunity](https://jayschulman.com/blog/quantum-computings-hidden-climate-opportunity)
-* [Crypto Settlement: Why Banks Win, Intermediaries Lose](https://jayschulman.com/blog/crypto-settlement-why-banks-win-intermediaries-lose)
-* [Your Power Law: Where AI Actually Changes Time](https://jayschulman.com/blog/your-power-law-where-ai-actually-changes-time)
-* [AI Ate Entry-Level Jobs—Now We Need Apprenticeships](https://jayschulman.com/blog/ai-ate-entry-level-jobsnow-we-need-apprenticeships)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `June 02, 2026`
+Generated on `June 03, 2026`
 <!-- date ends -->
