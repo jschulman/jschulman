@@ -68,11 +68,11 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Blockchain Is Rewiring Wall Street's Hidden Plumbing](https://jayschulman.com/blog/blockchain-is-rewiring-wall-streets-hidden-plumbing)
+* [Bitcoin Mortgages: Crypto's Crossing Into Traditional Finance](https://jayschulman.com/blog/bitcoin-mortgages-cryptos-crossing-into-traditional-finance)
+* [Why Your Bank's ID Verification Failed the Pope](https://jayschulman.com/blog/why-your-banks-id-verification-failed-the-pope)
+* [Quantum Breakthrough: When Q-Day Moves From 2035 to 2032](https://jayschulman.com/blog/quantum-breakthrough-when-q-day-moves-from-2035-to-2032)
 * [AI Won't Reshape Work—How You Share the Gains Will](https://jayschulman.com/blog/ai-wont-reshape-workhow-you-share-the-gains-will)
-* [Blockchain Prediction Markets: Trust Without Intermediaries](https://jayschulman.com/blog/blockchain-prediction-markets-trust-without-intermediaries)
-* [AI Adoption: Ask 'What Is This' Before 'Who Do We Cut'](https://jayschulman.com/blog/ai-adoption-ask-what-is-this-before-who-do-we-cut)
-* [The Hidden Cost of Free: AI Data Collection](https://jayschulman.com/blog/the-hidden-cost-of-free-ai-data-collection)
-* [Quantum Computing's Hidden Climate Opportunity](https://jayschulman.com/blog/quantum-computings-hidden-climate-opportunity)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `June 04, 2026`
+Generated on `June 05, 2026`
 <!-- date ends -->
