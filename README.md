@@ -69,10 +69,10 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 
 <!-- blog starts -->
 * [Crypto Security Failures: It's Always the People](https://jayschulman.com/blog/crypto-security-failures-its-always-the-people)
+* [Who Keeps the Interest? The Real Stablecoin Battle](https://jayschulman.com/blog/who-keeps-the-interest-the-real-stablecoin-battle)
 * [Stablecoins Above Par: What Market Premiums Really Signal](https://jayschulman.com/blog/stablecoins-above-par-what-market-premiums-really-signal)
 * [Stop Auditing Code, Start Securing Keys](https://jayschulman.com/blog/stop-auditing-code-start-securing-keys)
-* [Reclaim Authority: AI Agents Work Your Loop](https://jayschulman.com/blog/reclaim-authority-ai-agents-work-your-loop)
-* [Why AI Costs Are About to Plummet](https://jayschulman.com/blog/why-ai-costs-are-about-to-plummet)
+* [AI Privacy: The Question Enterprise Leaders Must Ask](https://jayschulman.com/blog/ai-privacy-the-question-enterprise-leaders-must-ask)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `July 03, 2026`
+Generated on `July 04, 2026`
 <!-- date ends -->
