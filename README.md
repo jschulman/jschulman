@@ -68,11 +68,11 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Cloudflare's AI Crawl Fee: Tax or Fair Trade?](https://jayschulman.com/blog/cloudflares-ai-crawl-fee-tax-or-fair-trade)
+* [Open Protocols Face Tollbooths at Scale](https://jayschulman.com/blog/open-protocols-face-tollbooths-at-scale)
+* [Bot Auth Is The New SPF: Prepare Your AI Agents](https://jayschulman.com/blog/bot-auth-is-the-new-spf-prepare-your-ai-agents)
 * [AI Won't Beat Your Best Analyst—But It Will Hollow Out Your Org](https://jayschulman.com/blog/ai-wont-beat-your-best-analystbut-it-will-hollow-out-your-org)
 * [Crypto Security Failures: It's Always the People](https://jayschulman.com/blog/crypto-security-failures-its-always-the-people)
-* [AI Agents & Hidden Web Instructions: Security Risk](https://jayschulman.com/blog/ai-agents-hidden-web-instructions-security-risk)
-* [Who Keeps the Interest? The Real Stablecoin Battle](https://jayschulman.com/blog/who-keeps-the-interest-the-real-stablecoin-battle)
-* [Quantum Computing's Honest Reckoning: From Hype to Reality](https://jayschulman.com/blog/quantum-computings-honest-reckoning-from-hype-to-reality)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `July 08, 2026`
+Generated on `July 09, 2026`
 <!-- date ends -->
