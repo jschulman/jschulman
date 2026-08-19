@@ -68,11 +68,11 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Why Three AI Reviewers Aren't Three Lines of Defense](https://jayschulman.com/blog/why-three-ai-reviewers-arent-three-lines-of-defense)
+* [AI Generation Is Free. Judgment Costs Everything](https://jayschulman.com/blog/ai-generation-is-free-judgment-costs-everything)
 * [Security as a Subscription: The Cost of AI-Powered Attacks](https://jayschulman.com/blog/security-as-a-subscription-the-cost-of-ai-powered-attacks)
 * [AI Threatens Your Best Revenue, Not Your Cheapest](https://jayschulman.com/blog/ai-threatens-your-best-revenue-not-your-cheapest)
 * [Your Data Is the Moat, Not the AI Model](https://jayschulman.com/blog/your-data-is-the-moat-not-the-ai-model)
-* [AI Decision Trails: Why Reconstruction Beats Bias Claims](https://jayschulman.com/blog/ai-decision-trails-why-reconstruction-beats-bias-claims)
-* [Crypto Cards Are Winning—Just Not How You Think](https://jayschulman.com/blog/crypto-cards-are-winningjust-not-how-you-think)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `August 18, 2026`
+Generated on `August 19, 2026`
 <!-- date ends -->
