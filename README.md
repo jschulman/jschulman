@@ -69,10 +69,10 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 
 <!-- blog starts -->
 * [Why Three AI Reviewers Aren't Three Lines of Defense](https://jayschulman.com/blog/why-three-ai-reviewers-arent-three-lines-of-defense)
+* [AI-Scaled Attacks: Your Risk Model Is Obsolete](https://jayschulman.com/blog/ai-scaled-attacks-your-risk-model-is-obsolete)
 * [AI Generation Is Free. Judgment Costs Everything](https://jayschulman.com/blog/ai-generation-is-free-judgment-costs-everything)
 * [Security as a Subscription: The Cost of AI-Powered Attacks](https://jayschulman.com/blog/security-as-a-subscription-the-cost-of-ai-powered-attacks)
 * [AI Threatens Your Best Revenue, Not Your Cheapest](https://jayschulman.com/blog/ai-threatens-your-best-revenue-not-your-cheapest)
-* [Immutability Is Marketing: The Real Trust Model](https://jayschulman.com/blog/immutability-is-marketing-the-real-trust-model)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `August 21, 2026`
+Generated on `August 22, 2026`
 <!-- date ends -->
