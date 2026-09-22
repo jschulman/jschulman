@@ -69,10 +69,10 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 
 <!-- blog starts -->
 * [AI in Finance: Who Owns the Model's Output?](https://jayschulman.com/blog/ai-in-finance-who-owns-the-models-output)
+* [AI Code Generation Creates a Security Speed Crisis](https://jayschulman.com/blog/ai-code-generation-creates-a-security-speed-crisis)
 * [AI Agents and Access Controls: A New Risk](https://jayschulman.com/blog/ai-agents-and-access-controls-a-new-risk)
+* [The Real AI Risk Hiding in Your Company](https://jayschulman.com/blog/the-real-ai-risk-hiding-in-your-company)
 * [Why Three AI Reviewers Aren't Three Lines of Defense](https://jayschulman.com/blog/why-three-ai-reviewers-arent-three-lines-of-defense)
-* [AI-Scaled Attacks: Your Risk Model Is Obsolete](https://jayschulman.com/blog/ai-scaled-attacks-your-risk-model-is-obsolete)
-* [AI Generation Is Free. Judgment Costs Everything](https://jayschulman.com/blog/ai-generation-is-free-judgment-costs-everything)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `September 21, 2026`
+Generated on `September 22, 2026`
 <!-- date ends -->
