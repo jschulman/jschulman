@@ -68,11 +68,11 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Agentic Commerce: The CFO's New Control Problem](https://jayschulman.com/blog/agentic-commerce-the-cfos-new-control-problem)
+* [Digital Money Choices Are Really Dependencies](https://jayschulman.com/blog/digital-money-choices-are-really-dependencies)
 * [AI in Finance: Who Owns the Model's Output?](https://jayschulman.com/blog/ai-in-finance-who-owns-the-models-output)
+* [Why Blockchain Needs Risk Ratings, Not Just Transparency](https://jayschulman.com/blog/why-blockchain-needs-risk-ratings-not-just-transparency)
 * [AI Code Generation Creates a Security Speed Crisis](https://jayschulman.com/blog/ai-code-generation-creates-a-security-speed-crisis)
-* [AI Agents and Access Controls: A New Risk](https://jayschulman.com/blog/ai-agents-and-access-controls-a-new-risk)
-* [Stop Waiting for Better AI Models—Build Better Systems](https://jayschulman.com/blog/stop-waiting-for-better-ai-modelsbuild-better-systems)
-* [Immutability's Hidden Cost: The Shutdown Problem](https://jayschulman.com/blog/immutabilitys-hidden-cost-the-shutdown-problem)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `October 12, 2026`
+Generated on `October 13, 2026`
 <!-- date ends -->
