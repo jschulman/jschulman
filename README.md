@@ -68,11 +68,11 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Why Perfect Emails Are Now Your Biggest Security Risk](https://jayschulman.com/blog/why-perfect-emails-are-now-your-biggest-security-risk)
 * [Agentic Commerce: The CFO's New Control Problem](https://jayschulman.com/blog/agentic-commerce-the-cfos-new-control-problem)
-* [Digital Money Choices Are Really Dependencies](https://jayschulman.com/blog/digital-money-choices-are-really-dependencies)
-* [AI in Finance: Who Owns the Model's Output?](https://jayschulman.com/blog/ai-in-finance-who-owns-the-models-output)
-* [Why Blockchain Needs Risk Ratings, Not Just Transparency](https://jayschulman.com/blog/why-blockchain-needs-risk-ratings-not-just-transparency)
-* [AI Code Generation Creates a Security Speed Crisis](https://jayschulman.com/blog/ai-code-generation-creates-a-security-speed-crisis)
+* [Finance's Shadow IT Problem: AI-Built Apps Gone Wrong](https://jayschulman.com/blog/finances-shadow-it-problem-ai-built-apps-gone-wrong)
+* [How Coinbase Influences Bitcoin Without Owning It](https://jayschulman.com/blog/how-coinbase-influences-bitcoin-without-owning-it)
+* [Why Three AI Reviewers Aren't Three Lines of Defense](https://jayschulman.com/blog/why-three-ai-reviewers-arent-three-lines-of-defense)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -90,5 +90,5 @@ Reading the crypto-native middle-market finance stack through one lens: public j
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `October 19, 2026`
+Generated on `October 20, 2026`
 <!-- date ends -->
